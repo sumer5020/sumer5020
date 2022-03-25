@@ -1,6 +1,8 @@
 ### Hi there 👋
-- 📫 How to reach me: <a target="_blank" href="mailto:sumer5020@gmail.com">Contact Email</a>
-- 🐦 Follow me in twitter: [![Twitter](https://img.shields.io/twitter/follow/sumer5020?label=Follow%20%40sumer5020&style=social)](https://twitter.com/sumer5020)
+I am Sumer Al Kadasi, I working in the field of Information Technology. I am interested in developing, managing websites, OSS, BSS, databases and data analysis.
+
+- 📫 How to reach me  <a target="_blank" href="mailto:sumer5020@gmail.com">sumer5020@gmail.com</a>
+- 🐦 twitter  [![Twitter](https://img.shields.io/twitter/follow/sumer5020?label=Follow%20%40sumer5020&style=social)](https://twitter.com/sumer5020)
   
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sumer5020&countColor=%237B1E7A&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
