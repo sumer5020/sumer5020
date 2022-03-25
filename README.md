@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 📫 How to reach me: <a href="mailto:sumer5020@gmail.com" target="_blank">Contact Email</a>
+- 📫 How to reach me: <a href="mailto:sumer5020@gmail.com" target:"_blank">Contact Email</a>
 - 🐦 [![Twitter](https://img.shields.io/twitter/follow/sumer5020?label=Follow%20%40sumer5020&style=social)](https://twitter.com/sumer5020)
   
 
