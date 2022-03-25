@@ -1,6 +1,14 @@
-### 👋
+### Hi there 👋
+- 📫 How to reach me: [Contact Email](mailto:sumer5020@gmail.com)
+- 🐦 [![Twitter](https://img.shields.io/twitter/follow/sumer5020?label=Follow%20%40sumer5020&style=social)](https://twitter.com/sumer5020)
+  
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sumer5020)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sumer5020&countColor=%237B1E7A&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+  
+![Visitors](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=sumer5020&repo=sumer5020)
+  
+<div><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumer5020&layout=compact&hide=html&theme=dark" alt="sumer5020" /><div/><br/>
+  
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
