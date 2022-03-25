@@ -13,7 +13,7 @@ I am Sumer Al Kadasi, I working in the field of Information Technology. I am int
   
 <br/><br/>Thanks :point_down: to visit my profile this year<br/>
 
-[![Visitors](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=sumer5020&repo=sumer5020)](#)
+![Visitors](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=sumer5020&repo=sumer5020)
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
