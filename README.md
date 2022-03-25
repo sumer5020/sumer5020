@@ -2,7 +2,7 @@
 I am Sumer Al Kadasi, I working in the field of Information Technology. I am interested in developing, managing websites, OSS, BSS, databases and data analysis.
 
 ### Contact Info
-- 📫 How to reach me  <a target="_blank" href="mailto:sumer5020@gmail.com">sumer5020@gmail.com</a>
+- 📫 How to reach me:  <a target="_blank" href="mailto:sumer5020@gmail.com">sumer5020@gmail.com</a>
 - [![Twitter](https://img.shields.io/twitter/follow/sumer5020?label=Follow%20%40sumer5020&style=social)](https://twitter.com/sumer5020)
 
 
