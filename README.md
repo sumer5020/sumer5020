@@ -9,7 +9,7 @@ I am Sumer Al Kadasi, I working in the field of Information Technology. I am int
 <br/><br/>
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sumer5020&countColor=%237B1E7A&show_icons=true&theme=dark)
   
-<div><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumer5020&layout=compact&hide=html&theme=dark" alt="sumer5020" /><div/><br/><br/>Thanks :point_down: to visit my profile<br/>
+<div><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumer5020&layout=compact&hide=html&theme=dark" alt="sumer5020" /><div/><br/><br/>Thanks :point_down: to visit my profile this year<br/><br/>
 
 ![Visitors](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=sumer5020&repo=sumer5020)
 <!--
