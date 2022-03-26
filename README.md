@@ -1,5 +1,9 @@
 ## Hi there :sparkles:
-I am Sumer Al Kadasi, I working in the field of Information Technology. I am interested in developing, managing websites, OSS, BSS, databases and data analysis.
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" />, I'm Sumer Al Kadasi</h1>
+<h3 align="center">A passionate full-stack developer, interested in developing, managing websites, OSS, BSS, databases and data analysis.</h3>
 
 ### Contact Info
 - 📫 How to reach me:  <a target="_blank" href="mailto:sumer5020@gmail.com">sumer5020@gmail.com</a>
