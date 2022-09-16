@@ -1,10 +1,5 @@
 <h1 align="center">
-  Hi 
-  <img src="wave.gif" alt="Waving hand animated gif" height="45" width="45" />, 
-  <a target="_blank" style="margin-left: 20px;" href="https://sumer5020.github.io">
-    I'm Sumer Al Kadasi 
-    <img src="icon-web.png" alt="web icon" height="40" width="40" />
-  </a>
+  Hi, <a target="_blank" style="margin-left: 20px;" href="https://sumer5020.github.io">I'm Sumer Alkadasi</a>
 </h1>
 <h3 align="center">A passionate full-stack developer, interested in developing, managing websites, business support systems (BSS), databases and data analysis.</h3>
 
