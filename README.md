@@ -13,7 +13,7 @@ Hi, <a target="_blank" style="margin-left: 20px;" href="https://sumer5020.github
 <div style="display: flex;">
 <img style="width: 100%;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sumer5020&show_icons=true&hide_border=true&theme=zenburn"/>
 <br/><br/>
-<img style="width: 45%; height:190px;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sumer5020&show_icons=true&hide_border=true&theme=zenburn"/>
-<img style="width: 45%; height:190px;" src="https://github-readme-stats.vercel.app/api?username=sumer5020&show_icons=true&hide_border=true&bg_color=3f3f3f&text_color=dcdccc&title_color=f0dfaf&icon_color=8cd0d3"/>
+<img style="width: 45%; height:190px;" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sumer5020&hide_border=true&theme=zenburn"/>
+<img style="width: 45%; height:190px;" src="https://github-readme-stats.vercel.app/api?username=sumer5020&show_icons=true&hide_border=true&bg_color=3f3f3f&text_color=dcdccc&title_color=f0dfaf&icon_color=8cd"/>
 </div>
 </div>
