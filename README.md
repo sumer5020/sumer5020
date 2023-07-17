@@ -1,7 +1,7 @@
 <h1 align="center">
 Hi, <a target="_blank" style="margin-left: 20px;" href="https://sumer5020.github.io">I'm Sumer Alkadasi</a>
 </h1>
-<h3 align="center">A passionate full-stack developer, interested in developing, managing websites, business support systems (BSS), databases and data analysis.</h3>
+<h3 align="center">A passionate full-stack developer, interested in developing, managing websites, APIs, databases and data analysis with 5 years experience.</h3>
 
 ### Contact Info
 - 📑 You can make discussion in:  <a target="_blank" href="https://github.com/sumer5020/sumer5020/discussions">discussions</a>
