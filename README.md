@@ -8,8 +8,8 @@ Hi, <a target="_blank" style="margin-left: 20px;" href="https://sumer5020.github
 ### Contact Info
 - 📑 You can make discussion in:  <a target="_blank" href="https://github.com/sumer5020/sumer5020/discussions">discussions</a>
 - 📫 How to reach me:  <a target="_blank" href="mailto:sumer5020@gmail.com">sumer5020@gmail.com</a>
-- [![Twitter](https://img.shields.io/twitter/follow/sumer5020?label=Follow%20%40sumer5020&style=social)](https://twitter.com/sumer5020)
-<br/>
+
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="sumer5020" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ye.linkedin.com/in/sumer5020?trk=profile-badge">Sumer Alkadasi</a></div>
 
 <div align="center">
 <div style="display: flex;">
