@@ -1,9 +1,9 @@
 <h1 align="center">
-Hi, <a target="_blank" style="margin-left: 20px;" href="https://sumer5020.github.io">I'm Sumer Alkadasi</a>
+Hi, <a target="_blank" style="margin-left: 20px;" href="#">I'm Sumer Alkadasi</a>
 </h1>
 <h3 align="center">A passionate full-stack developer, interested in developing, managing websites, APIs, databases and data analysis with 5 years experience.</h3>
 
-<h4 align="center">I provide services such website development, website Design, SPA, PWA, and API services, specializes in SEO Web Design and Search Engine Optimization. We combine SEO techniques with our high-quality Web Design to create very effective Search Engine friendly websites. contact now and move your business to the next level<h4>
+<h4 align="center">I provide services such website development, website Design, SPA, PWA, and API services, specializes in SEO Web Design and Search Engine Optimization. combine SEO techniques with our high-quality Web Design to create very effective Search Engine friendly websites.<h4>
 
 ### Contact Info
 - 📑 You can make discussion in:  <a target="_blank" href="https://github.com/sumer5020/sumer5020/discussions">discussions</a>
