@@ -22,3 +22,8 @@ Hi, <a target="_blank" style="margin-left: 20px;" href="#">I'm Sumer Alkadasi</a
 -->
 </div>
 </div>
+<br><br>
+## Freedom for Palestine
+- #standwithpalestine
+- #standwithpalestine🇵🇸 
+- #standwithgaza 
