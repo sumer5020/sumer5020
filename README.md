@@ -14,9 +14,6 @@ Hi, <a target="_blank" style="margin-left: 20px;" href="#">I'm Sumer Alkadasi</a
 -->
 <br/>
 <img style="width: 100%;" src="https://stats.dooboo.io/api/github-stats?login=sumer5020"/>
-<br/>
-</div>
-</div>
 <br><br>
 
 <!--
